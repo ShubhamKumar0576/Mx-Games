@@ -1,0 +1,19 @@
+<p>user-aquisition works!</p>
+<div class="page-wrapper">
+    <div class="main-content">
+        <div class="page-user-data">
+            <div class="chart-section">
+                <highcharts-chart 
+                    [Highcharts] = "highcharts"
+                    [options] = "chartOptions"
+                ></highcharts-chart>
+            </div>
+            <div class="user-details" *ngFor="let user of userData">
+                <div class="cash">{{user.cash}}</div>
+                <div class="cash">{{user.gems}}</div>
+                <div class="cash">{{user.pay_channel}}</div>
+
+            </div>
+        </div>
+    </div>
+</div>

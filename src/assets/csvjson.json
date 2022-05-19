@@ -1,0 +1,4242 @@
+[
+  {
+    "time_stamp": "2020-10-16 07:39:04",
+    "server_id": 10001,
+    "uuid": "543efa211b17d87b89f4f4fb",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-17 01:03:14",
+    "server_id": 10001,
+    "uuid": "543ff90d1b17d87b90a38d9a",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-17 08:57:35",
+    "server_id": 10001,
+    "uuid": "544062671b17d87b7beb088d",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-17 12:34:23",
+    "server_id": 10001,
+    "uuid": "54408a801b17d87b82bbaf57",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-17 13:38:05",
+    "server_id": 10001,
+    "uuid": "54409c231b17d87b974e18b6",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-17 17:42:29",
+    "server_id": 10001,
+    "uuid": "54406b0b1b17d87b82bbae18",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-17 19:10:56",
+    "server_id": 10001,
+    "uuid": "543efa211b17d87b89f4f4fb",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-18 11:10:42",
+    "server_id": 10001,
+    "uuid": "543efa211b17d87b89f4f4fb",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-18 12:16:30",
+    "server_id": 10001,
+    "uuid": "5441e6561b17d87b974e302e",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-18 13:32:25",
+    "server_id": 10001,
+    "uuid": "543fde7d1b17d87b7beb04cf",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-18 15:16:58",
+    "server_id": 10001,
+    "uuid": "5440e7b91b17d87b90a399e8",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-18 15:33:46",
+    "server_id": 10001,
+    "uuid": "5440e7b91b17d87b90a399e8",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-18 15:43:59",
+    "server_id": 10001,
+    "uuid": "5441e6561b17d87b974e302e",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-18 19:22:39",
+    "server_id": 10001,
+    "uuid": "544200c41b17d87b9842e5b7",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-18 19:59:16",
+    "server_id": 10001,
+    "uuid": "5441fd4e1b17d87b7beb2061",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-18 20:19:54",
+    "server_id": 10001,
+    "uuid": "544248ff1b17d87b974e3741",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-18 21:41:51",
+    "server_id": 10001,
+    "uuid": "54426c151b17d87b89f52376",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-18 22:34:50",
+    "server_id": 10001,
+    "uuid": "543f79ee1b17d87b89f4f8da",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-19 00:01:22",
+    "server_id": 10001,
+    "uuid": "5441531a1b17d87b82bbbd84",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-19 08:16:08",
+    "server_id": 10001,
+    "uuid": "543fc3901b17d87b5fe25608",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-19 08:44:30",
+    "server_id": 10001,
+    "uuid": "54425b9a1b17d87b7beb268e",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-19 08:45:37",
+    "server_id": 10001,
+    "uuid": "54425b9a1b17d87b7beb268e",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-19 14:22:51",
+    "server_id": 10001,
+    "uuid": "5440d2511b17d87b6026393b",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-19 15:38:25",
+    "server_id": 10001,
+    "uuid": "5440080a1b17d87b82bbab4e",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-19 17:01:49",
+    "server_id": 10001,
+    "uuid": "5440add41b17d87b5fe26224",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-19 22:39:21",
+    "server_id": 10001,
+    "uuid": "543fc4981b17d87b6d900999",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-20 01:33:34",
+    "server_id": 10001,
+    "uuid": "544368b31b17d87b6d904217",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-20 02:52:29",
+    "server_id": 10001,
+    "uuid": "5443fc851b17d87b98430893",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-20 11:48:03",
+    "server_id": 10001,
+    "uuid": "5441e6561b17d87b974e302e",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-20 13:41:50",
+    "server_id": 10001,
+    "uuid": "54449c7a1b17d87b60267d0c",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-20 18:04:44",
+    "server_id": 10001,
+    "uuid": "54446e851b17d87b98430e37",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-20 23:58:34",
+    "server_id": 10001,
+    "uuid": "544515961b17d87b90a3e559",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-21 00:00:34",
+    "server_id": 10001,
+    "uuid": "544359ca1b17d87b9842fc1f",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-21 00:11:12",
+    "server_id": 10001,
+    "uuid": "5445337c1b17d87b82bbf86e",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-21 01:15:05",
+    "server_id": 10001,
+    "uuid": "5444109a1b17d87b974e56a9",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-21 10:22:34",
+    "server_id": 10001,
+    "uuid": "54446e851b17d87b98430e37",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-21 10:58:46",
+    "server_id": 10001,
+    "uuid": "5445bdd31b17d87b89f56256",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-21 16:28:03",
+    "server_id": 10001,
+    "uuid": "544614671b17d87b60269cca",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-21 16:30:01",
+    "server_id": 10001,
+    "uuid": "5441e6561b17d87b974e302e",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-21 21:34:52",
+    "server_id": 10001,
+    "uuid": "5445438e1b17d87b60268e6e",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-22 04:08:12",
+    "server_id": 10001,
+    "uuid": "5440d2511b17d87b6026393b",
+    "cash": 19.99,
+    "gems": 2750,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-22 04:38:23",
+    "server_id": 10001,
+    "uuid": "5440d2511b17d87b6026393b",
+    "cash": 19.99,
+    "gems": 2750,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-22 08:18:23",
+    "server_id": 10001,
+    "uuid": "5445bdd31b17d87b89f56256",
+    "cash": 19.99,
+    "gems": 2750,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-22 17:40:34",
+    "server_id": 10001,
+    "uuid": "54459edf1b17d87b5fe2ba78",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-22 18:10:42",
+    "server_id": 10001,
+    "uuid": "543efa211b17d87b89f4f4fb",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-22 19:50:20",
+    "server_id": 10001,
+    "uuid": "544651b01b17d87b5fe2ca9c",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-23 11:58:11",
+    "server_id": 10001,
+    "uuid": "5447def71b17d87b82bc1b2b",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-24 02:57:47",
+    "server_id": 10001,
+    "uuid": "5440d2511b17d87b6026393b",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-24 03:24:29",
+    "server_id": 10001,
+    "uuid": "544719af1b17d87b90a40e05",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-24 13:17:02",
+    "server_id": 10001,
+    "uuid": "5449c8cf1b17d87b90a44f21",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-25 17:36:21",
+    "server_id": 10001,
+    "uuid": "54445b641b17d87b98430c4c",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-25 19:23:55",
+    "server_id": 10001,
+    "uuid": "544b35e11b17d87b90a473eb",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-26 02:42:03",
+    "server_id": 10001,
+    "uuid": "544bc0431b17d87b6d90fe57",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-26 05:15:08",
+    "server_id": 10001,
+    "uuid": "544b35e11b17d87b90a473eb",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-26 09:02:10",
+    "server_id": 10001,
+    "uuid": "5447def71b17d87b82bc1b2b",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-26 09:16:30",
+    "server_id": 10001,
+    "uuid": "5447def71b17d87b82bc1b2b",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-26 09:16:45",
+    "server_id": 10001,
+    "uuid": "5447def71b17d87b82bc1b2b",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-26 14:07:34",
+    "server_id": 10001,
+    "uuid": "5443aeb61b17d87b7beb40af",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-26 16:50:06",
+    "server_id": 10001,
+    "uuid": "544a3f4e1b17d87b984394b7",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-27 02:48:52",
+    "server_id": 10001,
+    "uuid": "544a8dc91b17d87b5fe307dc",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-27 12:06:56",
+    "server_id": 10001,
+    "uuid": "5447ad291b17d87b740cd487",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-27 18:36:56",
+    "server_id": 10001,
+    "uuid": "544c8db31b17d87b5fe32ac8",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-27 19:26:44",
+    "server_id": 10001,
+    "uuid": "54459edf1b17d87b5fe2ba78",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-28 04:22:47",
+    "server_id": 10001,
+    "uuid": "5447c9ae1b17d87b974ea971",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-29 13:04:04",
+    "server_id": 10001,
+    "uuid": "544baf3d1b17d87b82bc54c0",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-30 08:51:05",
+    "server_id": 10001,
+    "uuid": "543efa211b17d87b89f4f4fb",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-30 13:57:33",
+    "server_id": 10001,
+    "uuid": "543efa211b17d87b89f4f4fb",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-30 17:02:13",
+    "server_id": 10001,
+    "uuid": "543efa211b17d87b89f4f4fb",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-30 17:05:56",
+    "server_id": 10001,
+    "uuid": "543efa211b17d87b89f4f4fb",
+    "cash": 19.99,
+    "gems": 2750,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-30 17:15:54",
+    "server_id": 10001,
+    "uuid": "543efa211b17d87b89f4f4fb",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-30 22:42:58",
+    "server_id": 10001,
+    "uuid": "543f8c5c1b17d87b5fe253c1",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-31 06:04:08",
+    "server_id": 10001,
+    "uuid": "545283d31b17d84bc8dbf4ee",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-31 20:27:00",
+    "server_id": 10001,
+    "uuid": "54408c7c1b17d87b602633ca",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-10-31 21:48:55",
+    "server_id": 10001,
+    "uuid": "544a8dc91b17d87b5fe307dc",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-01 06:21:58",
+    "server_id": 10001,
+    "uuid": "545371981b17d854ebcf6f69",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-01 07:19:08",
+    "server_id": 10001,
+    "uuid": "5454171b1b17d854ebcf7883",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-01 09:15:54",
+    "server_id": 10001,
+    "uuid": "5447def71b17d87b82bc1b2b",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-03 10:06:29",
+    "server_id": 10001,
+    "uuid": "54551fc71b17d85508688015",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-03 16:44:24",
+    "server_id": 10001,
+    "uuid": "5451f2c51b17d84b8c97aae3",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-03 20:21:39",
+    "server_id": 10001,
+    "uuid": "54459edf1b17d87b5fe2ba78",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-03 21:13:10",
+    "server_id": 10001,
+    "uuid": "54459edf1b17d87b5fe2ba78",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-03 21:23:23",
+    "server_id": 10001,
+    "uuid": "54459edf1b17d87b5fe2ba78",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-03 21:44:01",
+    "server_id": 10001,
+    "uuid": "544c8db31b17d87b5fe32ac8",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-04 17:33:40",
+    "server_id": 10001,
+    "uuid": "545819821b17d854fa66c8e3",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-04 19:17:23",
+    "server_id": 10001,
+    "uuid": "5458b1ff1b17d854de0addd6",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-04 20:31:57",
+    "server_id": 10001,
+    "uuid": "544c8db31b17d87b5fe32ac8",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-05 01:18:03",
+    "server_id": 10001,
+    "uuid": "545902ac1b17d854fa66d850",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-05 10:05:47",
+    "server_id": 10001,
+    "uuid": "5458cca81b17d85514050adb",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-05 19:37:59",
+    "server_id": 10001,
+    "uuid": "5459a8b81b17d854ebcfc474",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-05 20:28:03",
+    "server_id": 10001,
+    "uuid": "5459a8b81b17d854ebcfc474",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-05 20:34:25",
+    "server_id": 10001,
+    "uuid": "5459a6561b17d854de0aea37",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-05 21:27:27",
+    "server_id": 10001,
+    "uuid": "545643d81b17d85508688f2c",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-05 21:34:38",
+    "server_id": 10001,
+    "uuid": "545643d81b17d85508688f2c",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-06 01:02:41",
+    "server_id": 10001,
+    "uuid": "5459f9e71b17d81a42a38032",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-06 01:47:59",
+    "server_id": 10001,
+    "uuid": "545a08d11b17d81a57b3504b",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-06 09:55:20",
+    "server_id": 10001,
+    "uuid": "54563b191b17d854de0ac28c",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-06 22:54:41",
+    "server_id": 10001,
+    "uuid": "545b13681b17d818138c7a3d",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 04:24:49",
+    "server_id": 10001,
+    "uuid": "545b61701b17d817c1210482",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 04:43:20",
+    "server_id": 10001,
+    "uuid": "545bd9751b17d8187cf63ea8",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 04:43:28",
+    "server_id": 10001,
+    "uuid": "545bd9751b17d8187cf63ea8",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 04:43:35",
+    "server_id": 10001,
+    "uuid": "545bd9751b17d8187cf63ea8",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 04:43:43",
+    "server_id": 10001,
+    "uuid": "545bd9751b17d8187cf63ea8",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 04:42:52",
+    "server_id": 10001,
+    "uuid": "545bd9751b17d8187cf63ea8",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 04:43:10",
+    "server_id": 10001,
+    "uuid": "545bd9751b17d8187cf63ea8",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 05:06:58",
+    "server_id": 10001,
+    "uuid": "545b61701b17d817c1210482",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 05:14:57",
+    "server_id": 10001,
+    "uuid": "545b61701b17d817c1210482",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 09:50:42",
+    "server_id": 10001,
+    "uuid": "5459ff0a1b17d81a815ca446",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 09:52:09",
+    "server_id": 10001,
+    "uuid": "5459ff0a1b17d81a815ca446",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 10:35:33",
+    "server_id": 10001,
+    "uuid": "5459f2f21b17d81a7a072282",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 10:38:06",
+    "server_id": 10001,
+    "uuid": "5459f2f21b17d81a7a072282",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 11:03:20",
+    "server_id": 10001,
+    "uuid": "5458b2eb1b17d854ebcfb73b",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 11:06:21",
+    "server_id": 10001,
+    "uuid": "5458b2eb1b17d854ebcfb73b",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 13:45:14",
+    "server_id": 10001,
+    "uuid": "545b15241b17d81887101ddd",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-07 14:02:02",
+    "server_id": 10001,
+    "uuid": "545b361a1b17d81899483393",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 14:00:49",
+    "server_id": 10001,
+    "uuid": "545b361a1b17d81899483393",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 14:32:48",
+    "server_id": 10001,
+    "uuid": "5459a8b81b17d854ebcfc474",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 15:31:46",
+    "server_id": 10001,
+    "uuid": "545b361a1b17d81899483393",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 20:09:54",
+    "server_id": 10001,
+    "uuid": "545a2dc61b17d81a507a6c1a",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-07 20:37:15",
+    "server_id": 10001,
+    "uuid": "5458b4c51b17d854de0ade09",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 20:53:17",
+    "server_id": 10001,
+    "uuid": "5459f2f21b17d81a7a072282",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 22:22:37",
+    "server_id": 10001,
+    "uuid": "545b13681b17d818138c7a3d",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-07 23:49:38",
+    "server_id": 10001,
+    "uuid": "544b765a1b17d87b974efd33",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-08 01:45:35",
+    "server_id": 10001,
+    "uuid": "545c07461b17d817c0827493",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-08 02:25:28",
+    "server_id": 10001,
+    "uuid": "545b8a4d1b17d81887102cc3",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-08 03:57:28",
+    "server_id": 10001,
+    "uuid": "545bdce91b17d818a2df77ab",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-08 11:00:22",
+    "server_id": 10001,
+    "uuid": "545a56461b17d81a6eca00fa",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-08 11:08:13",
+    "server_id": 10001,
+    "uuid": "545cfd3d1b17d818871051af",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-08 11:51:29",
+    "server_id": 10001,
+    "uuid": "545cfd3d1b17d818871051af",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-08 13:12:35",
+    "server_id": 10001,
+    "uuid": "54459edf1b17d87b5fe2ba78",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-08 13:20:00",
+    "server_id": 10001,
+    "uuid": "54459edf1b17d87b5fe2ba78",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-08 13:20:48",
+    "server_id": 10001,
+    "uuid": "545cde5e1b17d818a9a3f2e3",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-08 13:31:45",
+    "server_id": 10001,
+    "uuid": "54459edf1b17d87b5fe2ba78",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-08 18:26:39",
+    "server_id": 10001,
+    "uuid": "544b765a1b17d87b974efd33",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-08 18:34:01",
+    "server_id": 10001,
+    "uuid": "545431e61b17d854ebcf79e4",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-08 21:54:05",
+    "server_id": 10001,
+    "uuid": "545b61701b17d817c1210482",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-08 21:54:34",
+    "server_id": 10001,
+    "uuid": "545b61701b17d817c1210482",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-08 22:22:10",
+    "server_id": 10001,
+    "uuid": "544249ec1b17d87b9842eaa1",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 00:00:17",
+    "server_id": 10001,
+    "uuid": "545a42b61b17d81a7a072969",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-09 00:04:57",
+    "server_id": 10001,
+    "uuid": "54459edf1b17d87b5fe2ba78",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 00:09:32",
+    "server_id": 10001,
+    "uuid": "54459edf1b17d87b5fe2ba78",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 03:10:34",
+    "server_id": 10001,
+    "uuid": "545cfe171b17d81871693867",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-09 07:39:45",
+    "server_id": 10001,
+    "uuid": "545b73861b17d81899483983",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-09 09:43:40",
+    "server_id": 10001,
+    "uuid": "5455a15e1b17d854ebcf8edb",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 10:36:37",
+    "server_id": 10001,
+    "uuid": "5455a15e1b17d854ebcf8edb",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 10:58:25",
+    "server_id": 10001,
+    "uuid": "545c4f931b17d818138c987e",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-09 12:59:05",
+    "server_id": 10001,
+    "uuid": "545cfd3d1b17d818871051af",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-09 13:36:52",
+    "server_id": 10001,
+    "uuid": "545b1caf1b17d818138c7b1d",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-09 13:43:35",
+    "server_id": 10001,
+    "uuid": "545c346f1b17d818a9a3dd27",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 13:51:53",
+    "server_id": 10001,
+    "uuid": "545b1caf1b17d818138c7b1d",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-09 15:50:08",
+    "server_id": 10001,
+    "uuid": "545f16b11b17d817c1216757",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-09 16:54:44",
+    "server_id": 10001,
+    "uuid": "545dc3501b17d817c1214147",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 17:10:49",
+    "server_id": 10001,
+    "uuid": "545de35e1b17d8189212a00e",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-09 18:35:36",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-09 20:49:58",
+    "server_id": 10001,
+    "uuid": "543faf571b17d87b9842c6ac",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 21:08:38",
+    "server_id": 10001,
+    "uuid": "545232cf1b17d84b8b2d5a93",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 21:09:41",
+    "server_id": 10001,
+    "uuid": "545a0f8d1b17d81a75e6d89c",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-09 21:33:04",
+    "server_id": 10001,
+    "uuid": "545283d31b17d84bc8dbf4ee",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 22:10:18",
+    "server_id": 10001,
+    "uuid": "545f1f841b17d817c082ce77",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 22:10:56",
+    "server_id": 10001,
+    "uuid": "545f1f841b17d817c082ce77",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 22:22:36",
+    "server_id": 10001,
+    "uuid": "545a08d11b17d81a57b3504b",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-09 23:20:36",
+    "server_id": 10001,
+    "uuid": "545cfd3d1b17d818871051af",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 00:46:41",
+    "server_id": 10001,
+    "uuid": "545cfe171b17d81871693867",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 03:23:43",
+    "server_id": 10001,
+    "uuid": "5459d96c1b17d81a57b34c03",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-10 06:59:04",
+    "server_id": 10001,
+    "uuid": "5458cca81b17d85514050adb",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-10 07:54:07",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 07:53:56",
+    "server_id": 10001,
+    "uuid": "5441e6561b17d87b974e302e",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-10 07:57:29",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 07:57:33",
+    "server_id": 10001,
+    "uuid": "545a08d11b17d81a57b3504b",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-10 07:57:35",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 08:55:04",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 10:00:44",
+    "server_id": 10001,
+    "uuid": "545c346f1b17d818a9a3dd27",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-10 10:28:05",
+    "server_id": 10001,
+    "uuid": "545c3d2e1b17d818138c9684",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 13:38:34",
+    "server_id": 10001,
+    "uuid": "545c346f1b17d818a9a3dd27",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-10 15:56:26",
+    "server_id": 10001,
+    "uuid": "5460257a1b17d817c082ec41",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 16:06:18",
+    "server_id": 10001,
+    "uuid": "545d7fc81b17d81899486cc3",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 16:22:01",
+    "server_id": 10001,
+    "uuid": "5460257a1b17d817c082ec41",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 16:22:45",
+    "server_id": 10001,
+    "uuid": "545d7fc81b17d81899486cc3",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 16:25:55",
+    "server_id": 10001,
+    "uuid": "546052d31b17d817c082f0f2",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 16:50:20",
+    "server_id": 10001,
+    "uuid": "546052d31b17d817c082f0f2",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 18:21:37",
+    "server_id": 10001,
+    "uuid": "544b765a1b17d87b974efd33",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-10 18:24:50",
+    "server_id": 10001,
+    "uuid": "544b765a1b17d87b974efd33",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-10 20:21:40",
+    "server_id": 10001,
+    "uuid": "545b6f811b17d81892126012",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 20:26:41",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 20:45:09",
+    "server_id": 10001,
+    "uuid": "545b73861b17d81899483983",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 21:08:42",
+    "server_id": 10001,
+    "uuid": "545a0f8d1b17d81a75e6d89c",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 22:58:59",
+    "server_id": 10001,
+    "uuid": "545cfe171b17d81871693867",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-10 23:07:23",
+    "server_id": 10001,
+    "uuid": "545c346f1b17d818a9a3dd27",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-11 00:18:24",
+    "server_id": 10001,
+    "uuid": "545c346f1b17d818a9a3dd27",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-11 00:40:34",
+    "server_id": 10001,
+    "uuid": "545c346f1b17d818a9a3dd27",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-11 00:56:54",
+    "server_id": 10001,
+    "uuid": "545cde5e1b17d818a9a3f2e3",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-11 08:02:12",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-11 11:04:37",
+    "server_id": 10001,
+    "uuid": "5441eb581b17d87b6d90271e",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-11 14:00:01",
+    "server_id": 10001,
+    "uuid": "545c9c451b17d81871692adc",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-11 14:02:53",
+    "server_id": 10001,
+    "uuid": "545431e61b17d854ebcf79e4",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-11 14:33:17",
+    "server_id": 10001,
+    "uuid": "544b765a1b17d87b974efd33",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-11 14:58:45",
+    "server_id": 10001,
+    "uuid": "545b65251b17d817c08266eb",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-11 15:47:22",
+    "server_id": 10001,
+    "uuid": "545c9c451b17d81871692adc",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-11 17:51:16",
+    "server_id": 10001,
+    "uuid": "5460ea001b17d8189948ced5",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-11 19:45:08",
+    "server_id": 10001,
+    "uuid": "545e02831b17d817c1214980",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-11 20:29:24",
+    "server_id": 10001,
+    "uuid": "545a08d11b17d81a57b3504b",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-11 22:45:59",
+    "server_id": 10001,
+    "uuid": "5460257a1b17d817c082ec41",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-11 22:58:30",
+    "server_id": 10001,
+    "uuid": "545e58251b17d818138cd847",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-11 22:59:41",
+    "server_id": 10001,
+    "uuid": "5459f9d81b17d81a4348ae0a",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-11 23:39:02",
+    "server_id": 10001,
+    "uuid": "545431e61b17d854ebcf79e4",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-11 23:39:17",
+    "server_id": 10001,
+    "uuid": "545431e61b17d854ebcf79e4",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-11 23:42:24",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-11 23:45:11",
+    "server_id": 10001,
+    "uuid": "545b13681b17d818138c7a3d",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 01:25:01",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 01:25:10",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 02:37:34",
+    "server_id": 10001,
+    "uuid": "54621f8b1b17d85d7be9e081",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 07:28:20",
+    "server_id": 10001,
+    "uuid": "545f1f841b17d817c082ce77",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-12 09:21:05",
+    "server_id": 10001,
+    "uuid": "545dac791b17d817c082a292",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 09:58:38",
+    "server_id": 10001,
+    "uuid": "546029421b17d81871698e77",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 10:31:28",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 49.99,
+    "gems": 7000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 10:58:46",
+    "server_id": 10001,
+    "uuid": "5440d2511b17d87b6026393b",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-12 11:03:50",
+    "server_id": 10001,
+    "uuid": "5459a8b81b17d854ebcfc474",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 12:59:11",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 14:13:30",
+    "server_id": 10001,
+    "uuid": "5459ff0a1b17d81a815ca446",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 15:18:21",
+    "server_id": 10001,
+    "uuid": "546307e31b17d85d82e0db7b",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 15:30:59",
+    "server_id": 10001,
+    "uuid": "5459a8b81b17d854ebcfc474",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 15:47:14",
+    "server_id": 10001,
+    "uuid": "546307e31b17d85d82e0db7b",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 15:47:22",
+    "server_id": 10001,
+    "uuid": "546307e31b17d85d82e0db7b",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 16:04:48",
+    "server_id": 10001,
+    "uuid": "5458b4c51b17d854de0ade09",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 17:56:09",
+    "server_id": 10001,
+    "uuid": "5462e2331b17d85d9560a772",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-12 20:40:01",
+    "server_id": 10001,
+    "uuid": "545643d81b17d85508688f2c",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-12 21:09:16",
+    "server_id": 10001,
+    "uuid": "5445d11f1b17d87b82bbfdce",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-12 22:13:13",
+    "server_id": 10001,
+    "uuid": "5462deeb1b17d85d8ef98055",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 22:20:47",
+    "server_id": 10001,
+    "uuid": "5445d11f1b17d87b82bbfdce",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-12 22:27:46",
+    "server_id": 10001,
+    "uuid": "546307e31b17d85d82e0db7b",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-12 23:32:09",
+    "server_id": 10001,
+    "uuid": "546307e31b17d85d82e0db7b",
+    "cash": 19.99,
+    "gems": 2750,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-13 05:45:56",
+    "server_id": 10001,
+    "uuid": "5461d0461b17d85d82e0bd62",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-13 09:53:15",
+    "server_id": 10001,
+    "uuid": "545c935e1b17d818716929da",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-13 10:02:26",
+    "server_id": 10001,
+    "uuid": "5460257a1b17d817c082ec41",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-13 12:17:58",
+    "server_id": 10001,
+    "uuid": "546085641b17d8187cf6c116",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-13 12:56:16",
+    "server_id": 10001,
+    "uuid": "546085641b17d8187cf6c116",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-13 13:00:55",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 49.99,
+    "gems": 7000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-13 14:06:54",
+    "server_id": 10001,
+    "uuid": "545dac791b17d817c082a292",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-13 18:52:21",
+    "server_id": 10001,
+    "uuid": "545ca1ed1b17d818a9a3ea14",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-13 18:52:35",
+    "server_id": 10001,
+    "uuid": "545ca1ed1b17d818a9a3ea14",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-13 18:58:46",
+    "server_id": 10001,
+    "uuid": "545c9c451b17d81871692adc",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-13 18:59:05",
+    "server_id": 10001,
+    "uuid": "545c9c451b17d81871692adc",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-13 23:22:12",
+    "server_id": 10001,
+    "uuid": "54608e591b17d8189212ebf0",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-14 11:23:24",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-14 14:48:44",
+    "server_id": 10001,
+    "uuid": "5460257a1b17d817c082ec41",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-14 17:50:58",
+    "server_id": 10001,
+    "uuid": "5465cc211b17d85d6c83d128",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-14 21:18:06",
+    "server_id": 10001,
+    "uuid": "545ef09e1b17d8189212be5d",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-14 22:39:48",
+    "server_id": 10001,
+    "uuid": "545f86ab1b17d8187cf6a945",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-14 23:33:53",
+    "server_id": 10001,
+    "uuid": "5462e3fb1b17d85d82e0d7b1",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-15 01:52:51",
+    "server_id": 10001,
+    "uuid": "546085641b17d8187cf6c116",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-15 07:26:59",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-15 08:21:56",
+    "server_id": 10001,
+    "uuid": "545c07461b17d817c0827493",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-15 08:21:12",
+    "server_id": 10001,
+    "uuid": "545c07461b17d817c0827493",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-15 12:12:16",
+    "server_id": 10001,
+    "uuid": "5462e2331b17d85d9560a772",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-15 15:31:16",
+    "server_id": 10001,
+    "uuid": "546393a31b17d85d65f64b93",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-15 15:34:38",
+    "server_id": 10001,
+    "uuid": "546393a31b17d85d65f64b93",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-15 15:42:57",
+    "server_id": 10001,
+    "uuid": "546141f11b17d818a9a470c4",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-15 15:48:19",
+    "server_id": 10001,
+    "uuid": "5464cf291b17d85d8ef9bb2a",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-15 17:19:00",
+    "server_id": 10001,
+    "uuid": "5466e8d61b17d85d8911f701",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-15 17:29:02",
+    "server_id": 10001,
+    "uuid": "546141f11b17d818a9a470c4",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-15 18:14:40",
+    "server_id": 10001,
+    "uuid": "546634951b17d85d57ed56ea",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-15 19:49:36",
+    "server_id": 10001,
+    "uuid": "545232cf1b17d84b8b2d5a93",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-15 23:27:13",
+    "server_id": 10001,
+    "uuid": "545a32eb1b17d81a57b35434",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-15 23:55:45",
+    "server_id": 10001,
+    "uuid": "5466e8ea1b17d85d7bea5ba6",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 02:02:47",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-16 02:37:09",
+    "server_id": 10001,
+    "uuid": "545cfe171b17d81871693867",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-16 03:20:48",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-16 09:40:49",
+    "server_id": 10001,
+    "uuid": "545b361a1b17d81899483393",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-16 10:21:08",
+    "server_id": 10001,
+    "uuid": "546096781b17d818a2dffa19",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-16 10:23:59",
+    "server_id": 10001,
+    "uuid": "546808c01b17d85d73a3590f",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 10:27:32",
+    "server_id": 10001,
+    "uuid": "5455a15e1b17d854ebcf8edb",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 10:56:54",
+    "server_id": 10001,
+    "uuid": "5466a2a91b17d85d58219828",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-16 11:28:00",
+    "server_id": 10001,
+    "uuid": "5467e7591b17d85d6c840680",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 14:37:08",
+    "server_id": 10001,
+    "uuid": "5466e8d61b17d85d8911f701",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-16 15:16:47",
+    "server_id": 10001,
+    "uuid": "546823c61b17d85d6c840d1a",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 17:44:01",
+    "server_id": 10001,
+    "uuid": "5455a15e1b17d854ebcf8edb",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 17:51:14",
+    "server_id": 10001,
+    "uuid": "5455a15e1b17d854ebcf8edb",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 17:52:53",
+    "server_id": 10001,
+    "uuid": "5455a15e1b17d854ebcf8edb",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 18:17:12",
+    "server_id": 10001,
+    "uuid": "546823c61b17d85d6c840d1a",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 21:20:24",
+    "server_id": 10001,
+    "uuid": "54661b021b17d85d65f68fd2",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 22:02:40",
+    "server_id": 10001,
+    "uuid": "5466e8ea1b17d85d7bea5ba6",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 22:22:18",
+    "server_id": 10001,
+    "uuid": "5440741b1b17d87b7beb08e5",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-16 22:23:04",
+    "server_id": 10001,
+    "uuid": "5440741b1b17d87b7beb08e5",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-17 00:59:14",
+    "server_id": 10001,
+    "uuid": "543f7a3c1b17d87b6d9006c6",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-17 01:25:01",
+    "server_id": 10001,
+    "uuid": "543f7a3c1b17d87b6d9006c6",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-17 04:07:20",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-17 13:15:40",
+    "server_id": 10001,
+    "uuid": "5455a15e1b17d854ebcf8edb",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-17 14:04:27",
+    "server_id": 10001,
+    "uuid": "545c9c451b17d81871692adc",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-17 14:53:56",
+    "server_id": 10001,
+    "uuid": "546830f71b17d85d7bea7e46",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-17 15:50:53",
+    "server_id": 10001,
+    "uuid": "5460a9751b17d817c082fc3e",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-17 17:05:19",
+    "server_id": 10001,
+    "uuid": "546551431b17d85d82e11e3e",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-17 18:07:40",
+    "server_id": 10001,
+    "uuid": "54605f7c1b17d818a2dff4cf",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-17 20:21:57",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-17 22:32:31",
+    "server_id": 10001,
+    "uuid": "5466a2a91b17d85d58219828",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-17 22:35:52",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-17 23:13:39",
+    "server_id": 10001,
+    "uuid": "546085641b17d8187cf6c116",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-17 23:22:54",
+    "server_id": 10001,
+    "uuid": "5467e7591b17d85d6c840680",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 00:44:08",
+    "server_id": 10001,
+    "uuid": "5466e8ea1b17d85d7bea5ba6",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 01:40:23",
+    "server_id": 10001,
+    "uuid": "5454100d1b17d85518db339d",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 01:44:56",
+    "server_id": 10001,
+    "uuid": "5454100d1b17d85518db339d",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 01:57:21",
+    "server_id": 10001,
+    "uuid": "545a2dc61b17d81a507a6c1a",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 02:34:24",
+    "server_id": 10001,
+    "uuid": "545d81031b17d817c0829c8c",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 07:58:21",
+    "server_id": 10001,
+    "uuid": "5460257a1b17d817c082ec41",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 08:09:58",
+    "server_id": 10001,
+    "uuid": "543fc3901b17d87b5fe25608",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 10:24:12",
+    "server_id": 10001,
+    "uuid": "546808c01b17d85d73a3590f",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 12:17:06",
+    "server_id": 10001,
+    "uuid": "545232cf1b17d84b8b2d5a93",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 13:02:41",
+    "server_id": 10001,
+    "uuid": "545ef09e1b17d8189212be5d",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 14:26:55",
+    "server_id": 10001,
+    "uuid": "545ef09e1b17d8189212be5d",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 14:39:48",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 15:57:54",
+    "server_id": 10001,
+    "uuid": "546af4421b17d85d57edd68e",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 17:22:52",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 18:27:05",
+    "server_id": 10001,
+    "uuid": "545283d31b17d84bc8dbf4ee",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 18:30:03",
+    "server_id": 10001,
+    "uuid": "5467186b1b17d85d8ef9f88d",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 18:34:50",
+    "server_id": 10001,
+    "uuid": "545b361a1b17d81899483393",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 19:31:38",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 20:22:50",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 20:23:01",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 20:23:09",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 20:23:16",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-18 20:33:12",
+    "server_id": 10001,
+    "uuid": "546b1f7d1b17d85d82e1ca60",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 22:14:20",
+    "server_id": 10001,
+    "uuid": "5455a15e1b17d854ebcf8edb",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 22:24:00",
+    "server_id": 10001,
+    "uuid": "546b1f7d1b17d85d82e1ca60",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 22:27:16",
+    "server_id": 10001,
+    "uuid": "546af2dd1b17d85d65f70fa8",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-18 23:07:40",
+    "server_id": 10001,
+    "uuid": "5459d96c1b17d81a57b34c03",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-19 00:03:56",
+    "server_id": 10001,
+    "uuid": "5455a15e1b17d854ebcf8edb",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-19 00:04:33",
+    "server_id": 10001,
+    "uuid": "5455a15e1b17d854ebcf8edb",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-19 00:19:16",
+    "server_id": 10001,
+    "uuid": "5461de2a1b17d85d73a2aef5",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-19 01:55:46",
+    "server_id": 10001,
+    "uuid": "545a3c831b17d81a6ec9fee1",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-19 04:20:41",
+    "server_id": 10001,
+    "uuid": "546af4421b17d85d57edd68e",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 04:20:47",
+    "server_id": 10001,
+    "uuid": "546af4421b17d85d57edd68e",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 04:20:54",
+    "server_id": 10001,
+    "uuid": "546af4421b17d85d57edd68e",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 04:29:02",
+    "server_id": 10001,
+    "uuid": "546b8e051b17d85d65f7251c",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-19 05:00:39",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 07:00:46",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 49.99,
+    "gems": 7000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 07:49:50",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 11:55:55",
+    "server_id": 10001,
+    "uuid": "545af5be1b17d81899482ccf",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 14:37:50",
+    "server_id": 10001,
+    "uuid": "546be9841b17d85d58222caf",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 16:32:57",
+    "server_id": 10001,
+    "uuid": "546085641b17d8187cf6c116",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 20:06:16",
+    "server_id": 10001,
+    "uuid": "546b4c6e1b17d85d7bead22e",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 20:10:12",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 20:31:59",
+    "server_id": 10001,
+    "uuid": "546b4c6e1b17d85d7bead22e",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-19 23:10:09",
+    "server_id": 10001,
+    "uuid": "546296821b17d85d6c83757f",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 00:02:22",
+    "server_id": 10001,
+    "uuid": "546096781b17d818a2dffa19",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 01:47:08",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 03:39:49",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 19.99,
+    "gems": 2750,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 03:45:58",
+    "server_id": 10001,
+    "uuid": "546085641b17d8187cf6c116",
+    "cash": 19.99,
+    "gems": 2750,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 06:40:41",
+    "server_id": 10001,
+    "uuid": "5460257a1b17d817c082ec41",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 09:32:28",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 09:44:28",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 10:18:48",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 19.99,
+    "gems": 2750,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 12:55:41",
+    "server_id": 10001,
+    "uuid": "546b0b581b17d85d7beaca2a",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-20 16:23:31",
+    "server_id": 10001,
+    "uuid": "546096781b17d818a2dffa19",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 18:08:32",
+    "server_id": 10001,
+    "uuid": "5440d2511b17d87b6026393b",
+    "cash": 49.99,
+    "gems": 7000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-20 19:26:01",
+    "server_id": 10001,
+    "uuid": "546b64331b17d85d82e1d5c6",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-20 23:15:25",
+    "server_id": 10001,
+    "uuid": "5459f9d81b17d81a4348ae0a",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 23:52:35",
+    "server_id": 10001,
+    "uuid": "546db4f81b17d861ebb58b55",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-20 23:58:32",
+    "server_id": 10001,
+    "uuid": "546db4f81b17d861ebb58b55",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 01:39:55",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 04:12:24",
+    "server_id": 10001,
+    "uuid": "54645ca21b17d85d82e1010b",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-21 10:13:57",
+    "server_id": 10001,
+    "uuid": "546dcfd31b17d861f2b57db4",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 10:59:14",
+    "server_id": 10001,
+    "uuid": "545b6f811b17d81892126012",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 11:33:49",
+    "server_id": 10001,
+    "uuid": "546afe551b17d85d956185d7",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 11:39:48",
+    "server_id": 10001,
+    "uuid": "546afe551b17d85d956185d7",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 11:50:10",
+    "server_id": 10001,
+    "uuid": "546b54b91b17d85d7bead330",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 11:50:18",
+    "server_id": 10001,
+    "uuid": "546b54b91b17d85d7bead330",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 12:31:27",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 19.99,
+    "gems": 2750,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 14:10:17",
+    "server_id": 10001,
+    "uuid": "5458b2eb1b17d854ebcfb73b",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 14:39:27",
+    "server_id": 10001,
+    "uuid": "546830f71b17d85d7bea7e46",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-21 16:28:59",
+    "server_id": 10001,
+    "uuid": "546ca82b1b17d861f2b5654b",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 16:32:51",
+    "server_id": 10001,
+    "uuid": "546ca82b1b17d861f2b5654b",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 17:46:48",
+    "server_id": 10001,
+    "uuid": "546e10561b17d862138ac27e",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-21 21:14:36",
+    "server_id": 10001,
+    "uuid": "546db4f81b17d861ebb58b55",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 21:54:25",
+    "server_id": 10001,
+    "uuid": "546db4f81b17d861ebb58b55",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 22:55:23",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-21 23:47:48",
+    "server_id": 10001,
+    "uuid": "546db4f81b17d861ebb58b55",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-22 00:12:14",
+    "server_id": 10001,
+    "uuid": "545c4f931b17d818138c987e",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-22 07:08:32",
+    "server_id": 10001,
+    "uuid": "546bceeb1b17d85d8efa76d4",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-22 09:56:28",
+    "server_id": 10001,
+    "uuid": "546f7ce61b17d861f9c4ac2c",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-22 11:55:33",
+    "server_id": 10001,
+    "uuid": "546c54c11b17d861de91be80",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-22 11:57:59",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 19.99,
+    "gems": 2750,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-22 13:34:29",
+    "server_id": 10001,
+    "uuid": "5468176f1b17d85d57ed8960",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-22 15:10:00",
+    "server_id": 10001,
+    "uuid": "546e9cd11b17d861f2b5909a",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-22 18:34:14",
+    "server_id": 10001,
+    "uuid": "5466d8451b17d85d57ed6389",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-22 18:44:46",
+    "server_id": 10001,
+    "uuid": "5466d8451b17d85d57ed6389",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-22 20:42:03",
+    "server_id": 10001,
+    "uuid": "5466d8451b17d85d57ed6389",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-22 22:45:40",
+    "server_id": 10001,
+    "uuid": "546ef9241b17d86207e7d411",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-22 23:15:30",
+    "server_id": 10001,
+    "uuid": "5462e2331b17d85d9560a772",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-23 00:26:28",
+    "server_id": 10001,
+    "uuid": "545b13681b17d818138c7a3d",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-23 01:13:21",
+    "server_id": 10001,
+    "uuid": "545de0db1b17d81871694ff1",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-23 02:20:27",
+    "server_id": 10001,
+    "uuid": "5460257a1b17d817c082ec41",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-23 02:27:07",
+    "server_id": 10001,
+    "uuid": "5460257a1b17d817c082ec41",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-23 07:53:16",
+    "server_id": 10001,
+    "uuid": "5465cb161b17d85d65f685a2",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-23 08:39:32",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-23 08:41:12",
+    "server_id": 10001,
+    "uuid": "5461d0461b17d85d82e0bd62",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-23 09:08:24",
+    "server_id": 10001,
+    "uuid": "5447def71b17d87b82bc1b2b",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-23 10:40:22",
+    "server_id": 10001,
+    "uuid": "545cfd3d1b17d818871051af",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-23 10:58:39",
+    "server_id": 10001,
+    "uuid": "547087fb1b17d8621a4ffe81",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-23 11:25:51",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 49.99,
+    "gems": 7000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-23 19:44:55",
+    "server_id": 10001,
+    "uuid": "5471c8251b17d8620e235f59",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-23 22:51:09",
+    "server_id": 10001,
+    "uuid": "547047381b17d86207e7f2f5",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-24 00:29:56",
+    "server_id": 10001,
+    "uuid": "545a32eb1b17d81a57b35434",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-24 00:38:24",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-24 01:34:41",
+    "server_id": 10001,
+    "uuid": "547219591b17d861ebb5feae",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-24 01:32:10",
+    "server_id": 10001,
+    "uuid": "546b81ee1b17d85d65f72441",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-24 02:09:53",
+    "server_id": 10001,
+    "uuid": "546808c01b17d85d73a3590f",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-24 08:09:28",
+    "server_id": 10001,
+    "uuid": "54603a2b1b17d8187cf6b7f2",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-24 11:15:59",
+    "server_id": 10001,
+    "uuid": "5461db0c1b17d85d57ecde4e",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-24 11:17:44",
+    "server_id": 10001,
+    "uuid": "545c4f931b17d818138c987e",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-24 12:02:44",
+    "server_id": 10001,
+    "uuid": "547187651b17d8620e235641",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-24 15:48:29",
+    "server_id": 10001,
+    "uuid": "5472cb051b17d86207e82eb2",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-24 17:43:10",
+    "server_id": 10001,
+    "uuid": "546cbe071b17d862138a9e10",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-24 17:50:07",
+    "server_id": 10001,
+    "uuid": "5462e2331b17d85d9560a772",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-25 00:16:34",
+    "server_id": 10001,
+    "uuid": "546b81ee1b17d85d65f72441",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 00:38:25",
+    "server_id": 10001,
+    "uuid": "545b361a1b17d81899483393",
+    "cash": 9.99,
+    "gems": 1250,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 01:49:41",
+    "server_id": 10001,
+    "uuid": "547219591b17d861ebb5feae",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-25 03:47:01",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 03:57:36",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 04:14:49",
+    "server_id": 10001,
+    "uuid": "546208831b17d85d8ef96d3f",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 10:49:08",
+    "server_id": 10001,
+    "uuid": "5473dc851b17d861f2b61473",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 11:03:26",
+    "server_id": 10001,
+    "uuid": "54605f7c1b17d818a2dff4cf",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 12:08:42",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 14:13:43",
+    "server_id": 10001,
+    "uuid": "54741c511b17d861ddc2803c",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 18:35:53",
+    "server_id": 10001,
+    "uuid": "545a32eb1b17d81a57b35434",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 18:58:01",
+    "server_id": 10001,
+    "uuid": "5447def71b17d87b82bc1b2b",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-25 19:53:17",
+    "server_id": 10001,
+    "uuid": "54741c511b17d861ddc2803c",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 21:52:43",
+    "server_id": 10001,
+    "uuid": "546f7ce61b17d861f9c4ac2c",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 23:23:59",
+    "server_id": 10001,
+    "uuid": "5473dc851b17d861f2b61473",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 23:24:10",
+    "server_id": 10001,
+    "uuid": "5473dc851b17d861f2b61473",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-25 23:31:24",
+    "server_id": 10001,
+    "uuid": "546846bc1b17d85d82e17908",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-25 23:48:32",
+    "server_id": 10001,
+    "uuid": "545c3d2e1b17d818138c9684",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-26 01:21:03",
+    "server_id": 10001,
+    "uuid": "5473dc851b17d861f2b61473",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-26 02:02:01",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 99.99,
+    "gems": 15000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-26 09:07:18",
+    "server_id": 10001,
+    "uuid": "546222b41b17d85d89117779",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-26 10:57:26",
+    "server_id": 10001,
+    "uuid": "547180ee1b17d862138b163d",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-26 12:50:07",
+    "server_id": 10001,
+    "uuid": "54736bd81b17d86200a543f8",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-26 13:40:11",
+    "server_id": 10001,
+    "uuid": "547408921b17d86200a54f07",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-26 14:29:39",
+    "server_id": 10001,
+    "uuid": "545f1f841b17d817c082ce77",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-26 17:12:51",
+    "server_id": 10001,
+    "uuid": "546ee9391b17d862138ad43d",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-26 17:15:11",
+    "server_id": 10001,
+    "uuid": "546ee9391b17d862138ad43d",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-26 17:18:34",
+    "server_id": 10001,
+    "uuid": "546ee9391b17d862138ad43d",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-26 18:12:33",
+    "server_id": 10001,
+    "uuid": "546ee9391b17d862138ad43d",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-26 21:45:45",
+    "server_id": 10001,
+    "uuid": "546db4f81b17d861ebb58b55",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-26 22:11:52",
+    "server_id": 10001,
+    "uuid": "5475d2b11b17d822bf57d209",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-26 22:36:40",
+    "server_id": 10001,
+    "uuid": "5475df731b17d8229ba8600c",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-27 05:43:35",
+    "server_id": 10001,
+    "uuid": "547230b31b17d86200a520bd",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-27 07:39:23",
+    "server_id": 10001,
+    "uuid": "547436ee1b17d80d60771ee4",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-27 08:19:21",
+    "server_id": 10001,
+    "uuid": "5475aae11b17d822a294ec14",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-27 10:00:05",
+    "server_id": 10001,
+    "uuid": "5462e3fb1b17d85d82e0d7b1",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-27 10:00:20",
+    "server_id": 10001,
+    "uuid": "5462e3fb1b17d85d82e0d7b1",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-27 10:26:41",
+    "server_id": 10001,
+    "uuid": "547219591b17d861ebb5feae",
+    "cash": 19.99,
+    "gems": 3437,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-27 12:34:15",
+    "server_id": 10001,
+    "uuid": "546085641b17d8187cf6c116",
+    "cash": 19.99,
+    "gems": 3437,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-27 13:27:06",
+    "server_id": 10001,
+    "uuid": "54632d021b17d85d7be9fa13",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-27 16:19:55",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 99.99,
+    "gems": 22500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-27 16:37:21",
+    "server_id": 10001,
+    "uuid": "546cbe071b17d862138a9e10",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-27 17:29:10",
+    "server_id": 10001,
+    "uuid": "543fc3901b17d87b5fe25608",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-27 20:39:39",
+    "server_id": 10001,
+    "uuid": "54603a2b1b17d8187cf6b7f2",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-27 21:03:15",
+    "server_id": 10001,
+    "uuid": "5475ee6f1b17d822a294f89d",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-27 21:49:56",
+    "server_id": 10001,
+    "uuid": "546db4f81b17d861ebb58b55",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 03:17:05",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 99.99,
+    "gems": 22500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 08:13:53",
+    "server_id": 10001,
+    "uuid": "54603a2b1b17d8187cf6b7f2",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-28 08:15:46",
+    "server_id": 10001,
+    "uuid": "547408921b17d86200a54f07",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 09:24:16",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 19.99,
+    "gems": 3437,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 09:54:55",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 99.99,
+    "gems": 22500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 10:42:04",
+    "server_id": 10001,
+    "uuid": "544a60061b17d87b82bc3f3b",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-28 11:40:33",
+    "server_id": 10001,
+    "uuid": "5441e6561b17d87b974e302e",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-28 11:51:17",
+    "server_id": 10001,
+    "uuid": "546808c01b17d85d73a3590f",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-28 13:43:23",
+    "server_id": 10001,
+    "uuid": "5466e8d61b17d85d8911f701",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 15:08:41",
+    "server_id": 10001,
+    "uuid": "5466e8d61b17d85d8911f701",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 15:19:23",
+    "server_id": 10001,
+    "uuid": "5443916b1b17d87b7beb3d0e",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-28 16:12:15",
+    "server_id": 10001,
+    "uuid": "547219591b17d861ebb5feae",
+    "cash": 19.99,
+    "gems": 3437,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-28 17:28:30",
+    "server_id": 10001,
+    "uuid": "547830561b17d822a2953c6d",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-28 17:53:43",
+    "server_id": 10001,
+    "uuid": "5458b2eb1b17d854ebcfb73b",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 20:08:30",
+    "server_id": 10001,
+    "uuid": "5472cb051b17d86207e82eb2",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 20:26:45",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 19.99,
+    "gems": 3437,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 20:51:43",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 19.99,
+    "gems": 3437,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 22:25:00",
+    "server_id": 10001,
+    "uuid": "546808c01b17d85d73a3590f",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-28 22:41:52",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-28 22:50:52",
+    "server_id": 10001,
+    "uuid": "545c9c451b17d81871692adc",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-28 23:23:35",
+    "server_id": 10001,
+    "uuid": "5461db0c1b17d85d57ecde4e",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-29 00:04:21",
+    "server_id": 10001,
+    "uuid": "5461db0c1b17d85d57ecde4e",
+    "cash": 19.99,
+    "gems": 3437,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-29 01:14:28",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 99.99,
+    "gems": 22500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-29 01:52:49",
+    "server_id": 10001,
+    "uuid": "547809011b17d822cae15351",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-29 04:27:00",
+    "server_id": 10001,
+    "uuid": "5469f8df1b17d85d5821f871",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-29 04:30:11",
+    "server_id": 10001,
+    "uuid": "546db4f81b17d861ebb58b55",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-29 04:37:14",
+    "server_id": 10001,
+    "uuid": "5470ee9a1b17d861f2b5d008",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-29 04:41:55",
+    "server_id": 10001,
+    "uuid": "5469f8df1b17d85d5821f871",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-29 07:34:16",
+    "server_id": 10001,
+    "uuid": "547777321b17d822bf5810e5",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-29 08:55:23",
+    "server_id": 10001,
+    "uuid": "547736971b17d822cae13af4",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-29 09:32:08",
+    "server_id": 10001,
+    "uuid": "5474558c1b17d80d60772187",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-29 09:35:04",
+    "server_id": 10001,
+    "uuid": "5474558c1b17d80d60772187",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-29 10:11:23",
+    "server_id": 10001,
+    "uuid": "547012431b17d861f9c4b65a",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-29 10:46:11",
+    "server_id": 10001,
+    "uuid": "5478a1891b17d8228e3ac695",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-29 11:03:03",
+    "server_id": 10001,
+    "uuid": "545232cf1b17d84b8b2d5a93",
+    "cash": 1.99,
+    "gems": 150,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-29 11:15:24",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 99.99,
+    "gems": 22500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-29 13:58:13",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 99.99,
+    "gems": 22500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-29 14:39:42",
+    "server_id": 10001,
+    "uuid": "54795aa91b17d822bf58470c",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-29 16:31:26",
+    "server_id": 10001,
+    "uuid": "5476b0921b17d822a932930c",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-29 17:16:00",
+    "server_id": 10001,
+    "uuid": "5474788a1b17d80d68b2b5e1",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-29 19:35:08",
+    "server_id": 10001,
+    "uuid": "54648ee51b17d85d73a2f643",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-29 23:52:48",
+    "server_id": 10001,
+    "uuid": "5474558c1b17d80d60772187",
+    "cash": 49.99,
+    "gems": 14000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 00:43:47",
+    "server_id": 10001,
+    "uuid": "546222b41b17d85d89117779",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 01:13:55",
+    "server_id": 10001,
+    "uuid": "546c66481b17d861ddc1b1de",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-30 01:31:50",
+    "server_id": 10001,
+    "uuid": "5477561f1b17d822cae1432e",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 05:48:30",
+    "server_id": 10001,
+    "uuid": "5459d96c1b17d81a57b34c03",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-30 08:51:10",
+    "server_id": 10001,
+    "uuid": "547704a81b17d822bf57f642",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-30 09:00:48",
+    "server_id": 10001,
+    "uuid": "5472cb051b17d86207e82eb2",
+    "cash": 99.99,
+    "gems": 30000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 09:13:30",
+    "server_id": 10001,
+    "uuid": "5471c8251b17d8620e235f59",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-30 10:36:08",
+    "server_id": 10001,
+    "uuid": "547969ee1b17d8229ba8d070",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-30 10:39:56",
+    "server_id": 10001,
+    "uuid": "5479c9831b17d8228e3aefd1",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-30 10:40:09",
+    "server_id": 10001,
+    "uuid": "5479c9831b17d8228e3aefd1",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-30 10:56:32",
+    "server_id": 10001,
+    "uuid": "5476f79a1b17d822b7402a89",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-30 11:09:41",
+    "server_id": 10001,
+    "uuid": "546ae6621b17d85d8efa5d82",
+    "cash": 99.99,
+    "gems": 22500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 11:19:08",
+    "server_id": 10001,
+    "uuid": "54741c511b17d861ddc2803c",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 11:19:14",
+    "server_id": 10001,
+    "uuid": "54741c511b17d861ddc2803c",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 11:19:20",
+    "server_id": 10001,
+    "uuid": "54741c511b17d861ddc2803c",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 11:42:11",
+    "server_id": 10001,
+    "uuid": "5459f9d81b17d81a4348ae0a",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 11:56:06",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 19.99,
+    "gems": 3437,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 12:34:24",
+    "server_id": 10001,
+    "uuid": "546222b41b17d85d89117779",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 14:04:22",
+    "server_id": 10001,
+    "uuid": "5479dd5f1b17d822b041e976",
+    "cash": 9.99,
+    "gems": 2500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 14:05:16",
+    "server_id": 10001,
+    "uuid": "5479dd5f1b17d822b041e976",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 14:58:55",
+    "server_id": 10001,
+    "uuid": "546ee9391b17d862138ad43d",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 15:44:59",
+    "server_id": 10001,
+    "uuid": "547187651b17d8620e235641",
+    "cash": 99.99,
+    "gems": 22500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 16:26:54",
+    "server_id": 10001,
+    "uuid": "545fa41b1b17d81887109dd6",
+    "cash": 99.99,
+    "gems": 22500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 17:17:33",
+    "server_id": 10001,
+    "uuid": "546dcfd31b17d861f2b57db4",
+    "cash": 4.99,
+    "gems": 1000,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 18:13:53",
+    "server_id": 10001,
+    "uuid": "547187651b17d8620e235641",
+    "cash": 99.99,
+    "gems": 22500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 18:39:11",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 19.99,
+    "gems": 3437,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 18:45:21",
+    "server_id": 10001,
+    "uuid": "545232cf1b17d84b8b2d5a93",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-30 18:55:03",
+    "server_id": 10001,
+    "uuid": "546808c01b17d85d73a3590f",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "google_play"
+  },
+  {
+    "time_stamp": "2020-11-30 20:29:46",
+    "server_id": 10001,
+    "uuid": "5475efae1b17d822b041640d",
+    "cash": 1.99,
+    "gems": 300,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 20:40:41",
+    "server_id": 10001,
+    "uuid": "545ebdc81b17d817c1215c89",
+    "cash": 4.99,
+    "gems": 500,
+    "pay_channel": "app_store"
+  },
+  {
+    "time_stamp": "2020-11-30 22:37:38",
+    "server_id": 10001,
+    "uuid": "5479dd5f1b17d822b041e976",
+    "cash": 19.99,
+    "gems": 5500,
+    "pay_channel": "app_store"
+  }
+]
